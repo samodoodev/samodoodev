@@ -22,7 +22,11 @@ Here are some ideas to get you started:
     I have done <b>Masters in Applied Computing</b> from <b><a href='https://www.uwindsor.ca/'> University of Windsor, Canada  </b></a> <br>
   </em> 
   <br>
+       <a href="https://www.linkedin.com/in/saif-ali-8901b01b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/saif_ali_sd/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
+  <a href="mailto:engrsaifali2762@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
+<br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align='left'> <em ><b>About me...</b></em>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" align='right'>
